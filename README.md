@@ -37,7 +37,7 @@ Usage: line_sender [options]
 Example config file(yaml format)
 ```yaml
 channel_secret: "channel_secret"
-channel_token: "channel_token
+channel_token: "channel_token"
 user: "user"
 ```
 
